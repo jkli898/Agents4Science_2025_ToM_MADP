@@ -7,11 +7,26 @@
 <br />
 <div align="center">
 
-<h3 align="center">Testing Theory-of-Mind in Large Language Model-Based Multi-Agent Design Patterns
+<h3 align="center">This is the official repository of our paper: 
 </h3>
 
+<h1 align="center"><a href="https://www.researchgate.net/publication/395477807_Testing_Theory-of-Mind_in_Large_Language_Model-Based_Multi-Agent_Design_Patterns">Testing Theory-of-Mind in Large Language Model-Based Multi-Agent Design Patterns</a></h1>
 
 </div>
+
+Please cite our work if you found the resources in this repository useful:
+
+```bib
+@misc{grok_4_2025_17096637,
+  author       = {Grok 4 and Li, Jingkai},
+  title        = {Testing Theory-of-Mind in Large Language Model-Based Multi-Agent Design Patterns},
+  month        = sep,
+  year         = 2025,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.17096637},
+  url          = {https://www.researchgate.net/publication/395477807_Testing_Theory-of-Mind_in_Large_Language_Model-Based_Multi-Agent_Design_Patterns},
+}
+```
 
 
 
